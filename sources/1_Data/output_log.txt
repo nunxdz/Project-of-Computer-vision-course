@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     966 MB
+    Driver:   9.18.13.5286
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.MachineLearning.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.MachineLearning.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.Math.Core.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.Math.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.Math.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.Math.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.Statistics.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\Accord.Statistics.dll into Unity Child Domain
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nantana_Run\Desktop\2017 Course Work 2\sources\1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.858360 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4bac -> priority: 1 
+  Thread -> id: 3f8c -> priority: 1 
+  Thread -> id: 4220 -> priority: 1 
+  Thread -> id: 24c0 -> priority: 1 
